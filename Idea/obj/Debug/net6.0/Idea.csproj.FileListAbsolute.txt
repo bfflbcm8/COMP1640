@@ -1504,3 +1504,4 @@ L:\FPTGreenwich\TopUp\Lan2EWSD\COMP1640Group1\Idea\obj\Debug\net6.0\refint\Idea.
 L:\FPTGreenwich\TopUp\Lan2EWSD\COMP1640Group1\Idea\obj\Debug\net6.0\Idea.pdb
 L:\FPTGreenwich\TopUp\Lan2EWSD\COMP1640Group1\Idea\obj\Debug\net6.0\Idea.genruntimeconfig.cache
 L:\FPTGreenwich\TopUp\Lan2EWSD\COMP1640Group1\Idea\obj\Debug\net6.0\ref\Idea.dll
+L:\FPTGreenwich\TopUp\Lan2EWSD\COMP1640Group1\Idea\obj\Debug\net6.0\Idea.sourcelink.json
