@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4tYZ5eWtMFhB8fukncTsh6VdEVqO1K5ora7ZBYks4/Q=",
+  "Hash": "ydh3Qx5hy08zrMpY9uCV8hJruqIoP1YysJu2gp2TBSM=",
   "Source": "Idea",
   "BasePath": "_content/Idea",
   "Mode": "Default",
@@ -1233,6 +1233,25 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "L:\\FPTGreenwich\\TopUp\\Lan2EWSD\\COMP1640Group1\\Idea\\wwwroot\\Images\\1v1.jpg",
+      "SourceId": "Idea",
+      "SourceType": "Discovered",
+      "ContentRoot": "L:\\FPTGreenwich\\TopUp\\Lan2EWSD\\COMP1640Group1\\Idea\\wwwroot\\",
+      "BasePath": "_content/Idea",
+      "RelativePath": "Images/1v1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\1v1.jpg"
+    },
+    {
       "Identity": "L:\\FPTGreenwich\\TopUp\\Lan2EWSD\\COMP1640Group1\\Idea\\wwwroot\\Images\\Background.jpg",
       "SourceId": "Idea",
       "SourceType": "Discovered",
@@ -1440,6 +1459,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\ielts.jpg"
+    },
+    {
+      "Identity": "L:\\FPTGreenwich\\TopUp\\Lan2EWSD\\COMP1640Group1\\Idea\\wwwroot\\Images\\ledrecessedlight.jpg",
+      "SourceId": "Idea",
+      "SourceType": "Discovered",
+      "ContentRoot": "L:\\FPTGreenwich\\TopUp\\Lan2EWSD\\COMP1640Group1\\Idea\\wwwroot\\",
+      "BasePath": "_content/Idea",
+      "RelativePath": "Images/ledrecessedlight.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\ledrecessedlight.jpg"
     },
     {
       "Identity": "L:\\FPTGreenwich\\TopUp\\Lan2EWSD\\COMP1640Group1\\Idea\\wwwroot\\Images\\logoidea.jpg",

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Idea.bundle.scp.css"
     },
     {
+      "Id": "L:\\FPTGreenwich\\TopUp\\Lan2EWSD\\COMP1640Group1\\Idea\\wwwroot\\Images\\1v1.jpg",
+      "PackagePath": "staticwebassets\\Images\\1v1.jpg"
+    },
+    {
       "Id": "L:\\FPTGreenwich\\TopUp\\Lan2EWSD\\COMP1640Group1\\Idea\\wwwroot\\Images\\Background.jpg",
       "PackagePath": "staticwebassets\\Images\\Background.jpg"
     },
@@ -67,6 +71,10 @@
     {
       "Id": "L:\\FPTGreenwich\\TopUp\\Lan2EWSD\\COMP1640Group1\\Idea\\wwwroot\\Images\\ielts.jpg",
       "PackagePath": "staticwebassets\\Images\\ielts.jpg"
+    },
+    {
+      "Id": "L:\\FPTGreenwich\\TopUp\\Lan2EWSD\\COMP1640Group1\\Idea\\wwwroot\\Images\\ledrecessedlight.jpg",
+      "PackagePath": "staticwebassets\\Images\\ledrecessedlight.jpg"
     },
     {
       "Id": "L:\\FPTGreenwich\\TopUp\\Lan2EWSD\\COMP1640Group1\\Idea\\wwwroot\\Images\\logoidea.jpg",
