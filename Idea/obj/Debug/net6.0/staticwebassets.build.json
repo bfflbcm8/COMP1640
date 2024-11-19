@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XyKVUH+4dDAEZdCZaSMMWsPCWVxp92842C9k6DCfmGw=",
+  "Hash": "4tYZ5eWtMFhB8fukncTsh6VdEVqO1K5ora7ZBYks4/Q=",
   "Source": "Idea",
   "BasePath": "_content/Idea",
   "Mode": "Default",
@@ -1421,6 +1421,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\Health.jpg"
+    },
+    {
+      "Identity": "L:\\FPTGreenwich\\TopUp\\Lan2EWSD\\COMP1640Group1\\Idea\\wwwroot\\Images\\ielts.jpg",
+      "SourceId": "Idea",
+      "SourceType": "Discovered",
+      "ContentRoot": "L:\\FPTGreenwich\\TopUp\\Lan2EWSD\\COMP1640Group1\\Idea\\wwwroot\\",
+      "BasePath": "_content/Idea",
+      "RelativePath": "Images/ielts.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\ielts.jpg"
     },
     {
       "Identity": "L:\\FPTGreenwich\\TopUp\\Lan2EWSD\\COMP1640Group1\\Idea\\wwwroot\\Images\\logoidea.jpg",
